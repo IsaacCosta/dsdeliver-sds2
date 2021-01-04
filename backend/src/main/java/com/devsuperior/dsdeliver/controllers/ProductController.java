@@ -12,7 +12,7 @@ import com.devsuperior.dsdeliver.DTO.OrderDTO;
 import com.devsuperior.dsdeliver.services.OrderService;
 
 @RestController
-@RequestMapping(value = "/orders")
+@RequestMapping(value = "products")
 public class ProductController {
 	
 	@Autowired
